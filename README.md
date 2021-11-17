@@ -4,13 +4,7 @@ I am Gajanan Mallik holding a master degree in Computer Science and Application 
 
 ### Languges and Tools
 
- - JavaScript
- - Flutter
- - PHP
- - Android
- - Java
- - Docker
- - GCP
+  JavaScript | Flutter | PHP | Android | Java | Docker | GCP 
 
 
 <!--
