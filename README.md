@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Gajanan Mallik holding a master degree in Computer Science and Application from CET, Bhubaneswar. I am SDE (Fullstack) at TDCX Digilab, Hyderabad. I have strong expertise in developing web based and mobile applications. I am good with LAMP administration and managing web server.
+
 <!--
 **dev-gajanan/dev-gajanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
