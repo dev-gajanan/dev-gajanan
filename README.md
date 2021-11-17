@@ -2,7 +2,7 @@
 
 I am Gajanan Mallik holding a master degree in Computer Science and Application from CET, Bhubaneswar. I am SDE (Fullstack) at TDCX Digilab, Hyderabad. I have strong expertise in developing web based and mobile applications. I am good with LAMP administration and managing web server.
 
-#Languges and Tools
+### Languges and Tools
 
  - JavaScript
  - Flutter
